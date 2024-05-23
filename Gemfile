@@ -73,3 +73,5 @@ group :development, :test do
 end
 
 gem "solid_queue", "~> 0.3.1"
+
+gem "mission_control-jobs", "~> 0.2.1"

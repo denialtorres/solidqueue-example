@@ -1,0 +1,1 @@
+CREATE USER solidqueue_example;
